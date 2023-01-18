@@ -1,4 +1,5 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in AI and Python
 - 🌱 I’m currently studying IT and telecommunications in high school
-- 📫 You can reach me on jotone at proton dot me
+- 📫 You can reach me on john (at) jotone (dot) eu
+- 🌐 This is my website: jotone.eu
