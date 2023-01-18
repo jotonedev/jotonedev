@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI and Python
 - 🌱 I’m currently studying IT and telecommunications in high school
 - 📫 You can reach me on john (at) jotone (dot) eu
-- 🌐 This is my website: jotone.eu
+- 🌐 This is my website: [jotone.eu](https://jotone.eu)
