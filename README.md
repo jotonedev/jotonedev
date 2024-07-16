@@ -1,15 +1,36 @@
-# Hi, I’m John
+# Hi, I'm John
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20black?style=for-the-badge&logo=linkedin&labelColor=303030&color=EBEBEB&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-toniutti)
-![GitHub](https://img.shields.io/badge/GitHub%20-%20black?style=for-the-badge&logo=github&labelColor=303030&color=EBEBEB&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fjotonedev)
+<p align="center">
+  <img align="center" width="80%" src="./img/banner.webp">
+</p>
 
-### Myself
+## About me
 
-I'm a Computer Science student at the University of Udine. I am truly passionate about computers and everything related to them.
-In my free time I like to workout, do some ctf challenges or just work on my personal projects.
+- Currently studying for Bachelor's degree in Computer Science at [University of Udine](https://www.uniud.it)
 
-### Languages
+- I manage the server infrastructure for [UniUd E-Racing Team](https://formulasae.uniud.it/)
 
-![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&logoColor=white&labelColor=303030&color=EBEBEB&cacheSeconds=3600)
-![C++](https://img.shields.io/badge/cpp%20-%20black?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=303030&color=EBEBEB&cacheSeconds=3600)
-![Go lang](https://img.shields.io/badge/golang%20-%20black?style=for-the-badge&logo=go&logoColor=white&labelColor=303030&color=EBEBEB&cacheSeconds=3600)
+- I'm a member and sometime ctf player of [MadrHacks](https://www.madrhacks.org/)
+
+<a href="https://www.linkedin.com/in/john-toniutti/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn">
+</a>
+</br>
+<a href="https://github.com/jotonedev">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jotonedev?style=for-the-badge&logo=github">
+</a>
+<a href="https://jotone.it">
+  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjotone.it&style=for-the-badge&label=My%20website">
+</a>
+
+
+
+## Stats
+
+<a href="https://github.com/jotonedev">
+  <img height=200 width=350 align="right" src="https://github-readme-stats.vercel.app/api?username=jotonedev&show_icons=true&theme=radical&hide_rank=true&card_width=350" />
+</a>
+
+<a href="https://github.com/jotonedev">
+  <img height=200 width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotonedev&theme=radical&layout=compact&card_width=350" />
+</a>
