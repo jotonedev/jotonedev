@@ -10,7 +10,7 @@
 
 - I manage the server infrastructure for [UniUd E-Racing Team](https://formulasae.uniud.it/)
 
-- I'm a member and sometime ctf player of [MadrHacks](https://www.madrhacks.org/)
+- I'm a member and sometimes ctf player of [MadrHacks](https://www.madrhacks.org/)
 
 <a href="https://www.linkedin.com/in/john-toniutti/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn">
