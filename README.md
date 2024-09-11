@@ -8,8 +8,6 @@
 
 - Currently studying for Bachelor's degree in Computer Science at [University of Udine](https://www.uniud.it)
 
-- I manage the server infrastructure for [UniUd E-Racing Team](https://formulasae.uniud.it/)
-
 - I'm a member and sometimes ctf player of [MadrHacks](https://www.madrhacks.org/)
 
 <a href="https://www.linkedin.com/in/john-toniutti/">
